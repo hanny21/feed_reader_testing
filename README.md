@@ -4,8 +4,6 @@ This is my project for Udacity's Front-End Web Developer Nanodegree Program.
 Starting files provided by Udacity can be found [here](https://github.com/udacity/frontend-nanodegree-feedreader).
 The project goal is to write test for this aplication using [Jasmine](https://jasmine.github.io/).
 
-[view project in browser](https://hanny21.github.io/feed_reader_testing/)
-
 ## Project Criterias
 * Write a test that loops through each feed in the `allFeeds` object and ensures it has a URL defined and that the URL is not empty.
 * Write a test that loops through each feed in the `allFeeds` object and ensures it has a name defined and that the name is not empty.
