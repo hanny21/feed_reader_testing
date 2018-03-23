@@ -85,10 +85,8 @@ $(function() {
     beforeEach(function(done) {
       loadFeed(0, function() {
         firstUrl = allFeeds[0].url;
-        console.log("first url:", firstUrl);
         loadFeed(1, function() {
           secondUrl = allFeeds[1].url;
-          console.log("second url:", secondUrl);
           done();
         });
       });
