@@ -18,3 +18,8 @@ The project goal is to write test for this aplication using [Jasmine](https://ja
 * Callbacks should be used to ensure that feeds are loaded before they are tested.
 * Implement error handling for undefined variables and out-of-bound array access.
 * When complete - all of your tests should pass.
+
+## Running the app
+To run the app, please download the whole project to your PC.
+Then just open the index.html file in your browser.
+No need to install anything.
