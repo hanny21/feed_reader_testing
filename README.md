@@ -24,3 +24,6 @@ My work can be found in `jasmine/spec/feedreader.js` file.
 To run the app, please download the whole project to your PC.
 Then just open the index.html file in your browser.
 No need to install anything.
+
+## Dependencies
+Web browser: Google Chrome (recommended), Mozilla Firefox
